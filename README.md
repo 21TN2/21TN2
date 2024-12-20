@@ -16,18 +16,18 @@
 
 
 
-I am passionate about __Data Science__, __Data Engineering__ and __Machine Learning__. With the proliferation of data in today's digital age, data science has become a crucial tool for businesses, governments, and other organizations to understand and analyze complex data sets in order to make better decisions, improve operations, and drive growth. I have gained in depth-knowledge in these fields by taking online courses, reading relavant books and articles about __Big Data Analytics__, __Machine Learning__, __Statistics__,__Data Engineering__ and __Data Science__.  
+text here
 
+<!--
 <p align= "center">
 <img width="1200" height="330" src="https://user-images.githubusercontent.com/108056063/209587586-9c1e2aa9-082c-4389-9718-63155fabaf0e.png" alt="my banner">
 </p>
+-->
  
 
 <h2> About Me: </h2>
 
-I'm currently pursuing  __Masters__  in __Data Analytics__ from __San Jose State University__,Department of Applied Data Science. With 4.5 years of experience in data modeling and analysis, I bring a unique perspective to the field. I have a comprehensive understanding of __Statistics, Python, SQL, Big Data, and Machine Learning__, and have worked with cutting-edge technologies like __GANs, Large Language Models (LLMs), and Transformers__. Additionally, I have completed courses in __Machine Learning Fundamentals, Natural Language Processing (NLP), Deep Learning, Big Data__, and Statistics from DataCamp, GeekForGeeks, Coursera, and Udemy, which have provided me with a strong theoretical foundation in these fields.To gain hands on experience, I worked on projects ranging from retail,banking,movies and automobile industries.My portfolio on GitHub showcases a selection of my projects and experiences, demonstrating my capabilities as a data science and machine learning professional.
-
-Currently, I am working on a cutting-edge project developing a __Multi Media Chatbot AI testing tool__ that incorporates __natural language processing (NLP) and conversational AI__. To enhance the functionality of the tool, I am also using __automatic speech recognition and text-to-speech technology__, which enables the chatbot to have more __human-like interactions with users__. Furthermore, I am actively involved in deep learning projects, where I am creating __animated versions of real images using StyleGAN, JojoGAN, and Cartoon GAN__. These deep learning models allow me to generate novel images that are similar in style to the input images. 
+text 
 
 I am always eager to learn and expand my knowledge in these fields, and I have a passion for using data and technology to make a positive impact. My portfolio on GitHub showcases a selection of my projects and experiences, and demonstrates my capabilities as a __Data Science, Data Engineer and Machine Learning Professional__.Whether it's through building __Predictive Models, Computer Vision, Recommendation System, A/B Testing,Text Mining or Developing Data Pipelines__, I am dedicated to using my skills to drive innovation and solve complex problems. I am excited to share my work with others and contribute to the Data Science and Machine Learning Community. Thank you for considering my portfolio.🙂
 
@@ -193,14 +193,10 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 
  
  
- 
+ <!--drop the emojis later on -->
 ## Education 
 
-&emsp; :books: __Masters in Data Analytics__ | [__San Jose State University, San Jose, California__](https://www.sjsu.edu/) __[Jan 2022 - December 2023]__
-
-&emsp; :books: __Master of Business Administration__ | [__Indian Institute of Management, Ranchi, India__](https://www.iimranchi.ac.in/)__[June 2016 - Feb 2018]__
-
-&emsp; :books: __Bachelor of Technology__ | [__Govind Ballabh Pant University, India__](https://www.gbpuat.ac.in/)__[August 2010 - June 2014]__
+&emsp; :books: __Bachelors in Computer Science__ | [__California State University, Long Beach, California__] __[August 2022 - May 2026]__
 
 ## List of Certifications
 
@@ -210,57 +206,7 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp; :bookmark: [__Data Scientist__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Certifications-Passed/blob/main/Data_Scientist_Certification.pdf)
  
 &emsp; :bookmark: [__Machine Learning for Time Series Data in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/MachineLearningForTimeSeriesDataInPython.pdf)
-
-&emsp; :bookmark: [__Market Basket Analysis in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/MarketBasketAnalysis_in_Python.pdf)
-
-&emsp; :bookmark: [__Supervised Machine Learning with Scikit-Learn__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/SupervisedLearningWith_ScikitLearn.pdf)
  
-&emsp; :bookmark: [__Introduction to Tensorflow in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/IntroductionToTensorFlow.pdf)
- 
-
-&emsp; :bookmark: [__Image Processing With Keras In Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/ImageProcessingWithKerasInPython.pdf) 
-
-&emsp; :bookmark: [__Building Chatbots Using Google Dialogflow__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/BuildingChatbotsUsingGoogleDialogflow.pdf)
- 
-&emsp; :bookmark: [__Deep Learning With Keras__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/DeepLearningWithKeras.pdf)
- 
-&emsp; :bookmark: [__Image Processing With Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/ImageProcessinginPython.pdf)
- 
-&emsp;:bookmark:  [__Customer Churn Prediction in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/PredictingCustomerChurn_Python.pdf)
- 
-&emsp; :bookmark: [__ARIMA Models in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/ARIMA_Models_in_Python.pdf)
- 
-&emsp; :bookmark: [__Hypothesis Testing in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/HypothesisTesting_in_Python.pdf)
-
-&emsp; :bookmark: [__Customer Analytics and A/B Test in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Customer_Analytics_and_ABTestinginPython.pdf)
-
- 
-&emsp; :bookmark: [__Intermediate Regression with Statsmodels in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Intermediate_Regression_with_Statsmodels_in_Python.pdf)
- 
-&emsp; :bookmark: [__Introduction to Regression with Statsmodels in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Introduction_to_Regression_with_Statsmodels_in_Python.pdf)
- 
-&emsp; :bookmark: [__Introduction to Statistics in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Introduction_to_Statistics_in_Python.pdf)
- 
- 
-&emsp; :bookmark: [__Sampling Techniques in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Sampling_In_Python.pdf)
- 
-&emsp; :bookmark: [__Statistics Fundamentals in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Statistics-Certification/blob/main/Statistics_Fundamentals_in_Python.pdf)
-
-&emsp; :bookmark: [__Big Data Fundamentals with Pyspark__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/BigData_fundamentals_with_Pyspark.pdf)
- 
-&emsp; :bookmark: [__Building Recommendation System with Pyspark__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/Building_RecommendationSytem_with_Pyspark.pdf)
-
-&emsp; :bookmark: [__Writing Functions and Stored Procedures in SQL Server__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/WritingFunctionsandStoredProceduresinSQLServer.pdf)
- 
-&emsp; :bookmark: [__Learning Hadoop__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/CertificateOfCompletion_Learning_Hadoop.pdf)
- 
-&emsp; :bookmark: [__Data Cleaning Using Pyspark__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/DataCleaning_using_Pyspark.pdf)
- 
-&emsp; :bookmark: [__Introduction to Airflow in Python__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/Introduction_to_Airflow_in_Python.pdf)
-
-&emsp; :bookmark: [__Understanding Data Engineering__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Big-Data-Certification/blob/main/Understanding_DataEngineering.pdf)
- 
-
 &emsp; :bookmark: [__Analysis Marketing Campaigns Using Pandas__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Data-Visualisation-Certification/blob/main/AnalyzingMarketingCampaignswithPandas.pdf) 
 
 
@@ -269,27 +215,11 @@ Thank you for visiting my portfolio! I have had an awesome experience working on
 &emsp; :bookmark: [__Analysing Data In Tableau__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Data-Visualisation-Certification/blob/main/AnalysingDataInTableau.pdf) 
  
 &emsp; :bookmark: [__Deep Learning in Pytorch__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/DeepLearning_Pytorch.pdf) 
- 
- 
-&emsp; :bookmark: [__Advanced DeepLearning With Keras__ ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) ](https://github.com/iqrabismii/Machine_Learning_Certification/blob/main/Advanced_DeepLearning_With_Keras.pdf)
- 
-&emsp; :bookmark: [__Modernising Data Lakes and Data Warehouse with Google Cloud__ ![](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ](https://coursera.org/share/d45931a3496d885b1162725505baae79)
- 
-&emsp; :bookmark: [__Google Cloud Big Data and Machine Learning Fundamentals__ ![](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ](https://coursera.org/share/3f17194d97f2042f81348594573caaec)
- 
-&emsp; :bookmark: [__Data Science with Tableau__ ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ](https://verify.skilljar.com/c/q3obvzidpx5x)
- 
-&emsp; :bookmark: [__Amazon Web Services: Data Analytics__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/learning/certificates/ede470f50ab45d27eac145ea5be9c96b0cc530e85209c9f130d8ded25c0741f4)
- 
-&emsp; :bookmark: [__Apache Spark Essential Training__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/learning/certificates/54fa29c19b15f8e76cd6cc51b1453a8a8d0df2a0126d959aaff3a9286db28075)
- 
-&emsp; :bookmark: [__Advanced SQL for Data Science: Time Series__ ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/learning/certificates/b4d46beb6ffd4a1668bb1bd61033d8f00b905af16f6485bb76e40d6b5c144611)
- 
 
  
 
 
- 	
+
  
  
 ## Work Experience 
