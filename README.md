@@ -27,7 +27,7 @@ Template below. Work in progress. Links are not mine!
 
 <h2> About Me: </h2>
 
-text 
+Template below. Work in progress. Links are not mine!
 
 I am always eager to learn and expand my knowledge in these fields, and I have a passion for using data and technology to make a positive impact. My portfolio on GitHub showcases a selection of my projects and experiences, and demonstrates my capabilities as a __Data Science, Data Engineer and Machine Learning Professional__.Whether it's through building __Predictive Models, Computer Vision, Recommendation System, A/B Testing,Text Mining or Developing Data Pipelines__, I am dedicated to using my skills to drive innovation and solve complex problems. I am excited to share my work with others and contribute to the Data Science and Machine Learning Community. Thank you for considering my portfolio.🙂
 
