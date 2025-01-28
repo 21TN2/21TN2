@@ -16,7 +16,7 @@
 
 
 
-text here
+Template below. Work in progress. Links are not mine!
 
 <!--
 <p align= "center">
