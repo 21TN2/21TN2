@@ -434,13 +434,9 @@ by OpenAI is a powerful language model that uses deep learning techniques to gen
  
 ## Contact Information
 
-&emsp;&emsp; 📱 __Phone No:__ __669-230-9604__
+&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/theresa-nguyen-1028892a7/__
 
-&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/iqra-bismi/__
-
-&emsp;&emsp; 📫 __Email:__ __iqrabismi1992@gmail.com__
-
-&emsp;&emsp; ✍🏻 __Medium:__ __https://medium.com/@iqra.bismi__
+&emsp;&emsp; 📫 __Email:__ __nguyentheresa204@gmail.com__
 
 
 
